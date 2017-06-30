@@ -1,0 +1,25 @@
+{
+  "name": "pavlism-strext",
+  "version": "0.0.1",
+  "description": "extends the string obejct",
+  "main": "StringEXT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlism/strExt.git"
+  },
+  "keywords": [
+    "string",
+    "extension",
+    "pavlism"
+  ],
+  "author": "Mark Pavlis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlism/strExt/issues"
+  },
+  "dependencies": {"pavlism-logger": "^1.0.0"},
+  "homepage": "https://github.com/pavlism/strExt#readme"
+}
